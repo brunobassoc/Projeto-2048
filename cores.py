@@ -1,5 +1,5 @@
-cor_dagrade = "#a39489"
-cor_quadradofundo = "#c2b3a9"
+cor_grade = "#a39489"
+cor_quadradovazio = "#c2b3a9"
 fonte_placar = ("Verdana", 24)
 fonte_pountuaçao = ("Helvetica", 36, "bold")
 fonte_perdedor = ("Helvetica", 48, "Bold")
@@ -42,14 +42,15 @@ cores_numerosqudrados = {
 ## aqui vou definir a vonte nos números
 
 fonte_numeros = {
-        2: ("Helvetica", 55, "bold")
-        4:
-        8:
-        16:
-        32:
-        64:
-        128:
-        256:
-        512:
-        1024:
-        2048:
+        2: ("Helvetica", 55, "bold"),
+        4: ("Helvetica", 55, "bold"),
+        8: ("Helvetica", 55, "bold"),
+        16: ("Helvetica", 55, "bold"),
+        32: ("Helvetica", 55, "bold"),
+        64: ("Helvetica", 55, "bold"),
+        128: ("Helvetica", 55, "bold"),
+        256: ("Helvetica", 55, "bold"),
+        512: ("Helvetica", 55, "bold"),
+        1024: ("Helvetica", 55, "bold"),
+        2048: ("Helvetica", 55, "bold"),
+}
